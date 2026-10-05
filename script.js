@@ -1,0 +1,13 @@
+console.log("animales");
+console.log("gato")
+console.log("perro")
+console.log("tortuga")
+console.log("elefante")
+console.log("perico")
+console.log("león")
+console.log("rinoceronte")
+console.log("venado")
+console.log("luciergana")
+console.log("tiburon")
+console.log("ballena")
+console.log("vaca")
